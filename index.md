@@ -7,10 +7,11 @@ As vantagens de você utilizar o Discord e por ele ser muito leve tanto para com
 
 As desvantagens e que muitas vezes o aplicativo trava do nada.
 
-Outro que também a um software livre e o SKYPE.
+Outro que também a um software livre e o TOX.
 
 <img src="tox.png">
 
-As vantagens por esse lado, o Skype , ele e muito bom para a comunicação tanto para áudio , quanto para video.
+As vantagens por esse lado, o Tox , ele e muito bom para a comunicação para áudio e não tem publicação.
 
-As desvantagens dele e por ele ser muito pesado no computador e celular , muitos preferem utilizar o discord por ser mais leve, por mais que não tenha comunicação de video, ele e mais facil de utilizar.
+As desvantagens dele e por ainda não ter sido concluido , então ainda encontra-se alguns bugs dentro dele.
+
