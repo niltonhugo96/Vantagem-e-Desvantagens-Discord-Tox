@@ -9,7 +9,7 @@ As desvantagens e que muitas vezes o aplicativo trava do nada.
 
 Outro que também a um software livre e o SKYPE.
 
-<img src="skype.png">
+<img src="tox.png">
 
 As vantagens por esse lado, o Skype , ele e muito bom para a comunicação tanto para áudio , quanto para video.
 
