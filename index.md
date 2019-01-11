@@ -10,3 +10,7 @@ As desvantagens e que muitas vezes o aplicativo trava do nada.
 Outro que também a um software livre e o SKYPE.
 
 <img src="skype.png">
+
+As vantagens por esse lado, o Skype , ele e muito bom para a comunicação tanto para áudio , quanto para video.
+
+As desvantagens dele e por ele ser muito pesado no computador e celular , muitos preferem utilizar o discord por ser mais leve, por mais que não tenha comunicação de video, ele e mais facil de utilizar.
